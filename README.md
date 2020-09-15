@@ -1,6 +1,6 @@
 ### Hi there 👋
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ayanzadeh93&theme=dark&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ayanzadeh93&theme=graywhite&show_icons=true)
 <!--
 **Ayanzadeh93/Ayanzadeh93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
