@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ayanzadeh93&theme=graywhite&show_icons=true)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
 <!--
 **Ayanzadeh93/Ayanzadeh93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
