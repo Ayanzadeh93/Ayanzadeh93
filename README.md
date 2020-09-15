@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ayanzadeh93&theme=graywhite&show_icons=true,align="center")
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+![Ayanzadeh's github stats](https://github-readme-stats.vercel.app/api?username=Ayanzadeh93&theme=graywhite&show_icons=true,align="center")
+
 
 <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
