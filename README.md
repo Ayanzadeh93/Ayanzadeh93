@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Ayanzadeh's github stats](https://github-readme-stats.vercel.app/api?username=Ayanzadeh93&theme=graywhite&show_icons=true,align="center")
+<br />
 [![PyPi Version](https://img.shields.io/pypi/v/yt2mp3.svg)](https://pypi.python.org/pypi/yt2mp3/)
 
 <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
