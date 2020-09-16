@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)<br />
+![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=Ayanzadeh93&show_icons=true&theme=radical)<br />
 
 
 
