@@ -4,7 +4,7 @@
 <h2 align="center">Hello there! My name is Aydin Ayanzadeh. 👋</h2>
 <p align="center">MS.c of Applied Informatics at Istanbul Technical University. My research interests include computer vision, image processing and Deep Learning applications.</p>
 
-<h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h3>
+
 
 <p align='center'>
 <a href="https://dev.to/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
