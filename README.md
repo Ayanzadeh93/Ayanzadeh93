@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Ayanzadeh's github stats](https://github-readme-stats.vercel.app/api?username=Ayanzadeh93&theme=graywhite&show_icons=true, align="center")
-<br />
+![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)<br />
 
 
 
