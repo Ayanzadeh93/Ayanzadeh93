@@ -2,7 +2,7 @@
 
 ![Ayanzadeh's github stats](https://github-readme-stats.vercel.app/api?username=Ayanzadeh93&theme=graywhite&show_icons=true, align="center")
 <br />
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 
 
 <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
