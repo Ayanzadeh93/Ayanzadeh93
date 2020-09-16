@@ -43,7 +43,7 @@
 </a>
 
 <a href="https://github.com/Ayanzadeh93/Dog-Breeds-Identification">
-  <img align="center" src="https://github.com/Ayanzadeh93/Dog-Breeds-Identification" />
+  <img align="center" src="https://github.com/Ayanzadeh93/Dog-Breeds-Identification&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
