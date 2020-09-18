@@ -1,7 +1,7 @@
 
 
 
-<h2 align="center">Hello there! My name is Aydin Ayanzadeh. 👋</h2>
+<h2 align="center">Hello there! My name is Aydin Ayanzadeh👋</h2>
 <p align="center">MS.c of Applied Informatics at Istanbul Technical University. My research interests include computer vision, image processing and Deep Learning applications.</p>
 
 
