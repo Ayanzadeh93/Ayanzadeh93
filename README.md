@@ -38,6 +38,14 @@
 <!-- wi*quL3fcV -->
 
 
+- 🔭 I’m currently working on Deep Learning systems, mainly programming and Image Processing Systems
+- 🌱 I’m currently learning and docker.
+- 👯 I’m looking to collaborate on medical informatic project.
+- 💬 Ask me about Deep learning and computer Vision specially on medical imageing.
+- 📫 How to reach me: you can reach me from the social media links above
+- 😄 Pronouns: he/him
+- ⚡ Languages: Python, Matlab, C++, C
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Ayanzadeh93&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanzadeh93&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" /></a>
