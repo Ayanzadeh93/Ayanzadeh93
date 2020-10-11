@@ -39,9 +39,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Ayanzadeh93">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanzadeh93&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanzadeh93&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" /></a>
 <a href="https://github.com/Ayanzadeh93">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayanzadeh93&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
