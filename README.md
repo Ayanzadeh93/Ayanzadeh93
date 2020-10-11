@@ -39,7 +39,7 @@
 
 
 - 🔭 I’m currently working on Deep Learning systems, mainly programming and Image Processing Systems
-- 🌱 I’m currently learning and docker.
+- 🌱 I’m currently learning docker.
 - 👯 I’m looking to collaborate on medical informatic project.
 - 💬 Ask me about Deep learning and computer Vision specially on medical imageing.
 - 📫 How to reach me: you can reach me from the social media links above
