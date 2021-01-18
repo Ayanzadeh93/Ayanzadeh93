@@ -20,8 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![OpenVino](https://github.com/valohai/ml-logos/blob/master/openvino-2.svg)
-![pytorch](https://github.com/Ayanzadeh93/Ayanzadeh93/blob/master/pytorch.svg)
+
 
 **Technologies**
 
