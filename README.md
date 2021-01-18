@@ -26,12 +26,9 @@
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira-software)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000?&logo=Cisco)
 <!-- wi*quL3fcV -->
