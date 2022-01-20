@@ -2,7 +2,7 @@
 
 
 <h2 align="center">Hello there! My name is Aydin Ayanzadeh👋</h2>
-<p align="center">MS.c of Applied Informatics at Istanbul Technical University. My research interests include computer vision, image processing and Deep Learning applications.</p>
+<p align="center" Graduate Teaching Assistant at University of Maryland Baltimore County. My research interests include computer vision, image processing and Deep Learning applications.</p>
 
 <p align='center'>
 <a href="https://twitter.com/aydin_ayanzadeh"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
