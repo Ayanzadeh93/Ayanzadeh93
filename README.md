@@ -4,11 +4,11 @@
 <h2 align="center">Hello there! My name is Aydin Ayanzadeh👋</h2>
 <p align="center" Graduate Teaching Assistant at University of Maryland Baltimore County. My research interests include computer vision, image processing and Deep Learning applications.</p>
 
-<p align='center'>
+<!-- <p align='center'>
 <a href="https://twitter.com/aydin_ayanzadeh"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/aydin_ayanzadeh/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ayanzadeh93/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
+</p> -->
 
 **Languages**
 
