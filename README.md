@@ -26,9 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-000?&logo=Cisco)
+
 <!-- wi*quL3fcV -->
 
 
