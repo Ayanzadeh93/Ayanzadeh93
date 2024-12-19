@@ -42,8 +42,8 @@ Graduate Teaching Assistant at University of Maryland Baltimore County, speciali
 ## 📬 Get in Touch
 
 - 💬 Ask me about: Deep Learning, Computer Vision, Medical Imaging
-- 📫 Email: [Add your email here]
-- 🌐 Portfolio: [Add your website if available]
+- 📫 Email: [a.ayanzadeh@gmail.com]
+- 🌐 Portfolio: [ayanzadeh.com]
 
 ## 📊 GitHub Analytics
 
