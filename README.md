@@ -69,7 +69,7 @@
 
 ### 📬 Contact Information
 - 📧 Email: [a.ayanzadeh@gmail.com](mailto:a.ayanzadeh@gmail.com)
-- 🌐 Website: [ayanzadeh.com]([https://www.ayanzadeh.com/))
+- 🌐 Website: [https://www.ayanzadeh.com/]([ayanzadeh.com))
 - 📍 Location: Baltimore, Maryland, USA
 
 ---
