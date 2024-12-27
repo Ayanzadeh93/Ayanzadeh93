@@ -14,7 +14,7 @@
 > Graduate Teaching Assistant and Researcher at the University of Maryland Baltimore County (UMBC), specializing in the intersection of Computer Vision, Deep Learning, and Medical Imaging. Committed to advancing healthcare through innovative AI solutions.
 
 ### 🌟 Highlights
-- 📚 Ph.D. Candidate in Computer Science at UMBC
+- 📚 Ph.D. Student in Computer Science at UMBC
 - 🏆 Published researcher in medical imaging and deep learning
 - 💻 Expert in developing AI-powered medical imaging solutions
 - 🎯 Focus on bridging the gap between theoretical AI and practical healthcare applications
