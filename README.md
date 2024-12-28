@@ -39,41 +39,74 @@
 <details open>
 <summary><h2>🎯 Professional Journey</h2></summary>
 
-```mermaid
-graph LR
-    A[Ph.D. Student] --> B[Research]
-    B --> C[Medical Imaging]
-    B --> D[Deep Learning]
-    B --> E[Computer Vision]
-    C --> F[Healthcare AI]
-    D --> F
-    E --> F
-```
-
-### Current Focus Areas
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Focus-Deep_Learning-blue?style=flat-square&logo=tensorflow" /><br>
-        Architecture Design & Optimization
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Focus-Computer_Vision-green?style=flat-square&logo=opencv" /><br>
-        Image Processing Systems
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Focus-Medical_Imaging-red?style=flat-square&logo=medical" /><br>
-        Healthcare AI Applications
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Focus-Machine_Learning-purple?style=flat-square&logo=python" /><br>
-        Biomedical Applications
-      </td>
-    </tr>
-  </table>
+  <br/>
+  
+  <!-- Professional Timeline -->
+  <div style="background: linear-gradient(45deg, #1a1a1a, #2a2a2a); padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+    <h3 align="center">🎓 Academic & Research Timeline</h3>
+    <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
+      <img alt="Research" src="https://img.shields.io/badge/2021_--_Present-Ph.D._Candidate_@_UMBC-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+      <img alt="Teaching" src="https://img.shields.io/badge/2020_--_Present-Graduate_Teaching_Assistant-green?style=for-the-badge&logo=teacher-cap&logoColor=white" />
+      <img alt="Research" src="https://img.shields.io/badge/2019_--_Present-AI_Healthcare_Researcher-red?style=for-the-badge&logo=microscope&logoColor=white" />
+    </div>
+  </div>
+
+  <!-- Expertise Showcase -->
+  <div style="margin: 30px 0;">
+    <h3 align="center">🌟 Areas of Expertise</h3>
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
+      <!-- Deep Learning Card -->
+      <div style="background: linear-gradient(135deg, #001F3F, #083358); padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <img width="100%" src="https://img.shields.io/badge/Deep_Learning-Architecture_Design_&_Optimization-blue?style=for-the-badge&logo=tensorflow&logoColor=white" />
+        <div style="margin-top: 10px; font-size: 0.9em;">
+          • Neural Architecture Design<br/>
+          • Model Optimization<br/>
+          • Performance Tuning
+        </div>
+      </div>
+      
+      <!-- Computer Vision Card -->
+      <div style="background: linear-gradient(135deg, #1a472a, #2d5a3f); padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <img width="100%" src="https://img.shields.io/badge/Computer_Vision-Image_Processing_Systems-green?style=for-the-badge&logo=opencv&logoColor=white" />
+        <div style="margin-top: 10px; font-size: 0.9em;">
+          • Image Analysis<br/>
+          • Pattern Recognition<br/>
+          • Real-time Processing
+        </div>
+      </div>
+      
+      <!-- Medical Imaging Card -->
+      <div style="background: linear-gradient(135deg, #712B75, #C74B50); padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <img width="100%" src="https://img.shields.io/badge/Medical_Imaging-Healthcare_AI_Applications-red?style=for-the-badge&logo=medical&logoColor=white" />
+        <div style="margin-top: 10px; font-size: 0.9em;">
+          • Diagnostic Systems<br/>
+          • Medical Segmentation<br/>
+          • Clinical Integration
+        </div>
+      </div>
+      
+      <!-- Machine Learning Card -->
+      <div style="background: linear-gradient(135deg, #4B0082, #800080); padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <img width="100%" src="https://img.shields.io/badge/Machine_Learning-Biomedical_Applications-purple?style=for-the-badge&logo=python&logoColor=white" />
+        <div style="margin-top: 10px; font-size: 0.9em;">
+          • Algorithm Development<br/>
+          • Data Analysis<br/>
+          • Predictive Modeling
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Research Impact -->
+  <div style="background: linear-gradient(to right, #2C3E50, #3498DB); padding: 20px; border-radius: 10px; margin: 20px 0;">
+    <h3 align="center">🎯 Research Impact</h3>
+    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+      <img src="https://img.shields.io/badge/Publications-Medical_Imaging-blue?style=for-the-badge&logo=research&logoColor=white" />
+      <img src="https://img.shields.io/badge/Focus-Healthcare_Innovation-green?style=for-the-badge&logo=health&logoColor=white" />
+      <img src="https://img.shields.io/badge/Goal-AI_Advancement-red?style=for-the-badge&logo=target&logoColor=white" />
+    </div>
+  </div>
 </div>
 </details>
 
