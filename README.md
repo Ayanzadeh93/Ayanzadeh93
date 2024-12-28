@@ -16,24 +16,54 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="25" height="25" /> Research Vision
 
-```typescript
-interface ResearchProfile {
-  role: string;
-  mission: string;
-  impact: string[];
-}
+<div align="center">
 
-const profile: ResearchProfile = {
-  role: "AI Research Scientist @ UMBC",
-  mission: "Transforming Healthcare through AI Innovation",
-  impact: [
-    "🧠 Pioneering Medical Image Analysis",
-    "🔬 Advancing Deep Learning Architectures",
-    "💡 Bridging AI Theory and Clinical Practice",
-    "🌟 Innovating Healthcare Solutions"
-  ]
-};
-```
+[![Research Focus](https://img.shields.io/badge/Research_Focus-AI_Healthcare_Innovation-6B5BF7?style=for-the-badge&logoWidth=25&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAACXBIWXMAAAsTAAALEwEAmpwYAAABh0lEQVR4nO2VPUsDQRCAH8HGQrC18R8ICr5gYWMhVoKVheA/sLGxFBsFwUoQGwv/gZAySX4AiSZrISKiWFiIIKKgiKifcOJsWHJ7l9t44AdX3M3OPDc7uztNU8JE4gxKsgwFOYaC+FBQS5+6O2ZQkitUnT2zCm0ZR0HuUJAlaMkIquYBOVlVYR9Wh9WrMcbkhWXP3/Cu+2eI8PwRJXnTuVvKyVEUGqH76tXETeGxyvG9tnqHm1EwTwXZBZA9uEIPCnKOvDQhL8deQEYWoWC1yEsjJKQTCnYGCZnQeBMkZA8F2YCYvEJJniJrAUHLkbVRv4Cy16QFCrYHOdmOrskhFO0GYg5wbv+QkU4U5NtJmIas7KDq3EWh6c89URUQkwFk5dv3IFk5gYIthID0oCQfqDozZn32kJVPVGXBrGZdEJcJKDr7nngQN5chL+OQdwahaO8FlrSaHei97qIgzz7D5rWqsQR5WYOUTKLq3P4iGv4v4Qm+dG4bCvKqG4Br3YxWZ91GUhp+AJOiH+c1HGg3AAAAAElFTkSuQmCC)](https://www.ayanzadeh.com/)
+
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Role" width="60"/>
+<br/>
+<b>AI Research Scientist</b>
+<br/>
+<sub>University of Maryland Baltimore County</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Vision" width="60"/>
+<br/>
+<b>Research Vision</b>
+<br/>
+<sub>Transforming Healthcare through AI Innovation</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Impact" width="60"/>
+<br/>
+<b>Impact Focus</b>
+<br/>
+<sub>Bridging AI Theory with Clinical Practice</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&section=footer&text=Research%20Impact&fontSize=24&fontAlign=50&fontAlignY=70&rotate=2&customColorList=24" width="100%"/>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="40" />
+  <b>Pioneering Medical Image Analysis</b>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="Innovation" width="40" />
+  <b>Advanced Deep Learning Research</b>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="Future" width="40" />
+  <b>Future of Healthcare AI</b>
+</p>
+
+</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> Innovation Pipeline
 
@@ -110,8 +140,31 @@ graph LR
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="25" height="25" /> GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayanzadeh93&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=Ayanzadeh93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayanzadeh93&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/Ayanzadeh93)
+
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayanzadeh93&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayanzadeh93&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Statistics" />
+</p>
+
+[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=Ayanzadeh93&theme=nord&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<details>
+<summary><b>📊 Detailed Statistics</b></summary>
+<br>
+
+| Category | Statistics |
+|:--------:|:----------:|
+| 🌟 Stars Earned | ![Stars](https://img.shields.io/github/stars/Ayanzadeh93?style=flat&logo=github&color=6B5BF7) |
+| 📦 Repositories | ![Repos](https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/Ayanzadeh93&color=6B5BF7) |
+| 💻 Lines of Code | ![Lines of Code](https://img.shields.io/badge/dynamic/json?logo=github&label=Lines%20of%20Code&query=total&url=https://api.codetabs.com/v1/loc?github=Ayanzadeh93&color=6B5BF7) |
+| 📝 Language Distribution | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanzadeh93&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="360px"/> |
+
+</details>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayanzadeh93&theme=tokyonight" width="100%" />
+
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Connect
