@@ -1,4 +1,4 @@
-# Aydin Ayanzadeh, Ph.D. Candidate
+# Aydin Ayanzadeh, Ph.D. Student
 
 <div align="center">
   
