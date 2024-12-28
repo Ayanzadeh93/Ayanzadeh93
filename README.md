@@ -1,4 +1,5 @@
 # Aydin Ayanzadeh, Ph.D. Candidate
+
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayanzadeh93/)
@@ -9,31 +10,31 @@
 
 </div>
 
-## 🎓 Professional Summary
+## About Me 🎓
 
-> Graduate Teaching Assistant and Researcher at the University of Maryland Baltimore County (UMBC), specializing in the intersection of Computer Vision, Deep Learning, and Medical Imaging. Committed to advancing healthcare through innovative AI solutions.
+Graduate Teaching Assistant and Researcher at the University of Maryland Baltimore County (UMBC), specializing in the intersection of Computer Vision, Deep Learning, and Medical Imaging. Committed to advancing healthcare through innovative AI solutions.
 
-### 🌟 Highlights
+### Career Highlights 🌟
 - 📚 Ph.D. Student in Computer Science at UMBC
 - 🏆 Published researcher in medical imaging and deep learning
 - 💻 Expert in developing AI-powered medical imaging solutions
 - 🎯 Focus on bridging the gap between theoretical AI and practical healthcare applications
 
-## 🔬 Research & Expertise
+## Research & Expertise 🔬
 
 ### Core Research Areas
-- 🧠 Deep Learning Architecture Design & Optimization
-- 👁️ Computer Vision & Image Processing Systems
-- 🏥 Medical Image Analysis & Healthcare AI
-- 📊 Machine Learning in Biomedical Applications
+- 🧠 **Deep Learning**: Architecture Design & Optimization
+- 👁️ **Computer Vision**: Image Processing Systems & Analysis
+- 🏥 **Healthcare AI**: Medical Image Analysis & Processing
+- 📊 **Machine Learning**: Advanced Biomedical Applications
 
-### Current Projects
-- 🔍 Developing novel deep learning architectures for medical image segmentation
-- 🎯 Implementing real-time medical imaging processing systems
-- 🧪 Researching automated diagnosis systems using AI
-- 📱 Creating mobile-friendly medical imaging solutions
+### Active Projects
+- 🔍 Novel deep learning architectures for medical image segmentation
+- 🎯 Real-time medical imaging processing systems
+- 🧪 AI-powered automated diagnosis systems
+- 📱 Mobile-optimized medical imaging solutions
 
-## 💻 Technical Proficiency
+## Technical Stack 💻
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white&labelColor=333333)
@@ -41,35 +42,35 @@
 ![C](https://img.shields.io/badge/C-Advanced-A8B9CC?style=flat&logo=c&logoColor=white&labelColor=333333)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Proficient-0076A8?style=flat&logo=mathworks&logoColor=white&labelColor=333333)
 
-### Frameworks & Technologies
-#### AI/ML
+### AI/ML Technologies
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=333333)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=flat&logo=pytorch&logoColor=white&labelColor=333333)
 ![Keras](https://img.shields.io/badge/Keras-Advanced-D00000?style=flat&logo=keras&logoColor=white&labelColor=333333)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-Proficient-F7931E?style=flat&logo=scikit-learn&logoColor=white&labelColor=333333)
 
-#### Development Tools
+### Development Tools
 ![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=flat&logo=git&logoColor=white&labelColor=333333)
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat&logo=docker&logoColor=white&labelColor=333333)
 ![AWS](https://img.shields.io/badge/AWS-Intermediate-232F3E?style=flat&logo=amazon-aws&logoColor=white&labelColor=333333)
 ![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=flat&logo=linux&logoColor=white&labelColor=333333)
 
-## 📈 GitHub Statistics
+## GitHub Analytics 📈
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayanzadeh93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanzadeh93&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-## 🤝 Let's Connect
+## Collaboration & Contact 🤝
 
-- 💼 Open for research collaborations in medical imaging and AI
-- 📚 Interested in mentoring and teaching opportunities
-- 🔍 Looking to connect with fellow researchers and professionals
+### Opportunities
+- 💼 Open to research collaborations in medical imaging and AI
+- 📚 Available for mentoring and teaching opportunities
+- 🔍 Seeking connections with researchers and professionals
 
-### 📬 Contact Information
+### Contact Information
 - 📧 Email: [a.ayanzadeh@gmail.com](mailto:a.ayanzadeh@gmail.com)
-- 🌐 Website: [https://www.ayanzadeh.com/]([ayanzadeh.com))
+- 🌐 Website: [www.ayanzadeh.com](https://www.ayanzadeh.com/)
 - 📍 Location: Baltimore, Maryland, USA
 
 ---
