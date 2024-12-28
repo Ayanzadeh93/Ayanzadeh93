@@ -53,50 +53,68 @@
   </div>
 
   <!-- Expertise Showcase -->
-  <div style="margin: 30px 0;">
-    <h3 align="center">🌟 Areas of Expertise</h3>
-    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
-      <!-- Deep Learning Card -->
-      <div style="background: linear-gradient(135deg, #001F3F, #083358); padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <img width="100%" src="https://img.shields.io/badge/Deep_Learning-Architecture_Design_&_Optimization-blue?style=for-the-badge&logo=tensorflow&logoColor=white" />
-        <div style="margin-top: 10px; font-size: 0.9em;">
-          • Neural Architecture Design<br/>
-          • Model Optimization<br/>
-          • Performance Tuning
-        </div>
-      </div>
-      
-      <!-- Computer Vision Card -->
-      <div style="background: linear-gradient(135deg, #1a472a, #2d5a3f); padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <img width="100%" src="https://img.shields.io/badge/Computer_Vision-Image_Processing_Systems-green?style=for-the-badge&logo=opencv&logoColor=white" />
-        <div style="margin-top: 10px; font-size: 0.9em;">
-          • Image Analysis<br/>
-          • Pattern Recognition<br/>
-          • Real-time Processing
-        </div>
-      </div>
-      
-      <!-- Medical Imaging Card -->
-      <div style="background: linear-gradient(135deg, #712B75, #C74B50); padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <img width="100%" src="https://img.shields.io/badge/Medical_Imaging-Healthcare_AI_Applications-red?style=for-the-badge&logo=medical&logoColor=white" />
-        <div style="margin-top: 10px; font-size: 0.9em;">
-          • Diagnostic Systems<br/>
-          • Medical Segmentation<br/>
-          • Clinical Integration
-        </div>
-      </div>
-      
-      <!-- Machine Learning Card -->
-      <div style="background: linear-gradient(135deg, #4B0082, #800080); padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <img width="100%" src="https://img.shields.io/badge/Machine_Learning-Biomedical_Applications-purple?style=for-the-badge&logo=python&logoColor=white" />
-        <div style="margin-top: 10px; font-size: 0.9em;">
-          • Algorithm Development<br/>
-          • Data Analysis<br/>
-          • Predictive Modeling
-        </div>
-      </div>
-    </div>
-  </div>
+<h3 align="center">🌟 Areas of Expertise</h3>
+
+<div align="center">
+
+|  Deep Learning  | Computer Vision |
+|:--------------:|:---------------:|
+| ![Deep Learning](https://img.shields.io/badge/Deep_Learning-Architecture_Design_&_Optimization-blue?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Computer Vision](https://img.shields.io/badge/Computer_Vision-Image_Processing_Systems-green?style=for-the-badge&logo=opencv&logoColor=white) |
+| • Neural Architecture Design<br/>• Model Optimization<br/>• Performance Tuning | • Image Analysis<br/>• Pattern Recognition<br/>• Real-time Processing |
+| **Medical Imaging** | **Machine Learning** |
+| ![Medical Imaging](https://img.shields.io/badge/Medical_Imaging-Healthcare_AI_Applications-red?style=for-the-badge&logo=medical&logoColor=white) | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Biomedical_Applications-purple?style=for-the-badge&logo=python&logoColor=white) |
+| • Diagnostic Systems<br/>• Medical Segmentation<br/>• Clinical Integration | • Algorithm Development<br/>• Data Analysis<br/>• Predictive Modeling |
+
+</div>
+
+<br>
+
+<!-- Expertise Details -->
+<details>
+<summary>📚 Detailed Expertise</summary>
+
+### 🧠 Deep Learning
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 95%
+```
+- Advanced Neural Network Architecture Design
+- Model Optimization and Performance Tuning
+- Custom Loss Function Development
+
+### 👁️ Computer Vision
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 90%
+```
+- Real-time Image Processing Systems
+- Feature Detection and Pattern Recognition
+- Multi-scale Image Analysis
+
+### 🏥 Medical Imaging
+```
+▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 85%
+```
+- Medical Image Segmentation
+- Diagnostic System Development
+- Clinical Workflow Integration
+
+### 📊 Machine Learning
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 90%
+```
+- Statistical Analysis and Modeling
+- Algorithm Development and Optimization
+- Data Processing Pipeline Design
+
+</details>
+
+<!-- Research Metrics -->
+<div align="center">
+
+| Research Impact | Healthcare Innovation | AI Advancement |
+|:--------------:|:--------------------:|:--------------:|
+| ![Publications](https://img.shields.io/badge/📚_Publications-Medical_Imaging-blue?style=for-the-badge) | ![Innovation](https://img.shields.io/badge/🔬_Focus-Healthcare_Innovation-green?style=for-the-badge) | ![AI](https://img.shields.io/badge/🎯_Goal-AI_Advancement-red?style=for-the-badge) |
+
+</div>
 
   <!-- Research Impact -->
   <div style="background: linear-gradient(to right, #2C3E50, #3498DB); padding: 20px; border-radius: 10px; margin: 20px 0;">
