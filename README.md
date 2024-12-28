@@ -14,54 +14,84 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="25" height="25" /> Research Vision
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="CS" width="25" height="25" /> Research Vision
 
 <div align="center">
 
-[![Research Focus](https://img.shields.io/badge/Research_Focus-AI_Healthcare_Innovation-6B5BF7?style=for-the-badge&logoWidth=25&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAACXBIWXMAAAsTAAALEwEAmpwYAAABh0lEQVR4nO2VPUsDQRCAH8HGQrC18R8ICr5gYWMhVoKVheA/sLGxFBsFwUoQGwv/gZAySX4AiSZrISKiWFiIIKKgiKifcOJsWHJ7l9t44AdX3M3OPDc7uztNU8JE4gxKsgwFOYaC+FBQS5+6O2ZQkitUnT2zCm0ZR0HuUJAlaMkIquYBOVlVYR9Wh9WrMcbkhWXP3/Cu+2eI8PwRJXnTuVvKyVEUGqH76tXETeGxyvG9tnqHm1EwTwXZBZA9uEIPCnKOvDQhL8deQEYWoWC1yEsjJKQTCnYGCZnQeBMkZA8F2YCYvEJJniJrAUHLkbVRv4Cy16QFCrYHOdmOrskhFO0GYg5wbv+QkU4U5NtJmIas7KDq3EWh6c89URUQkwFk5dv3IFk5gYIthID0oCQfqDozZn32kJVPVGXBrGZdEJcJKDr7nngQN5chL+OQdwahaO8FlrSaHei97qIgzz7D5rWqsQR5WYOUTKLq3P4iGv4v4Qm+dG4bCvKqG4Br3YxWZ91GUhp+AJOiH+c1HGg3AAAAAElFTkSuQmCC)](https://www.ayanzadeh.com/)
+[![Research Areas](https://img.shields.io/badge/Research_Areas-Computer_Science_&_ML-6B5BF7?style=for-the-badge&logoWidth=25&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB6UlEQVR4nO2VTUhUURTHf44fjBYV0SaIVi0K+thEQaMFQUSBRBFR0MeqFikFUhC5cGFEQVQQFgRBQdDKLAqivhYugooWUaEVFUWrKGjTByG5aCZ4xRm7w7z35s17mqPQH+7m3HP+/3PfPffcq7WCNmkC7gMDQAfQCOwF9gObgRqgHJfVqQy4CbwGvgIzwBQwBYwCr4AXwBPgDnAKqAWieV2ZkoEo0AZcA54DX4BfWZzPAQ+BDmAXUJJxIgaagW7gk9Nw1hkCuoEjuOz5WgJsBc4Cj4FJYD5k8hPgOrAXKM0RJwIcAq4AY8Bi0PhfoA84D2wAEjmB0sQp4BbwDVhwmEwAV4EDQJGL5wLgKPAQmAV+O8ZvgItAlYsnBhwGHgBzwJLD5D1wDtgOaPlEr2O7DlwGPjhMRoHzwBZXYVJJb3A+lw08ATqBbYCR41dqgLPAc2DB8Sb0uDSs56uaEuAY0Af8cCZoS9TZEhANm2yb8Z5jPGv9J4FGL5JQ0kR7/PUcNUkC+4EJYNG+xSv5RBOt0WVgOsf5nwEagbXAqsAPT5stFLBfZBroBbYDxUDUE18LnAEGgZ/O+iwDI8B1K7KXlRXGawG7rLOPWVf1W4f3Wqfnf/YBPVbQLLICk4J6+QdXI6cj5OU/0QAAAABJRU5ErkJggg==)](https://www.ayanzadeh.com/)
 
 <table>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Role" width="60"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Research" width="60"/>
 <br/>
-<b>AI Research Scientist</b>
+<b>Advanced Computing</b>
 <br/>
-<sub>University of Maryland Baltimore County</sub>
+<sub>Machine Learning & Computer Vision</sub>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Vision" width="60"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Systems" width="60"/>
 <br/>
-<b>Research Vision</b>
+<b>Systems Architecture</b>
 <br/>
-<sub>Transforming Healthcare through AI Innovation</sub>
+<sub>Optimization & Performance</sub>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Impact" width="60"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Puzzle%20Piece.png" alt="Innovation" width="60"/>
 <br/>
-<b>Impact Focus</b>
+<b>Innovation Focus</b>
 <br/>
-<sub>Bridging AI Theory with Clinical Practice</sub>
+<sub>Next-Gen AI Solutions</sub>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&section=footer&text=Research%20Impact&fontSize=24&fontAlign=50&fontAlignY=70&rotate=2&customColorList=24" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&customColorList=24" width="100%"/>
+</div>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite.png" alt="Research" width="25" height="25" /> Research Focus
+
+<div align="center">
+
+<table border="0">
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Circuit.png" alt="Architecture" width="40"/>
 <br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="40" />
-  <b>Pioneering Medical Image Analysis</b>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="Innovation" width="40" />
-  <b>Advanced Deep Learning Research</b>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="Future" width="40" />
-  <b>Future of Healthcare AI</b>
-</p>
+<b>System Architecture</b>
+<br/>
+• Neural Networks<br/>
+• Performance Optimization
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Infinity.png" alt="ML" width="40"/>
+<br/>
+<b>Deep Learning</b>
+<br/>
+• Advanced Algorithms<br/>
+• Model Architecture
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Analytics" width="40"/>
+<br/>
+<b>Data Systems</b>
+<br/>
+• Pattern Recognition<br/>
+• Real-time Processing
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile" width="40"/>
+<br/>
+<b>Edge Computing</b>
+<br/>
+• Mobile Solutions<br/>
+• System Integration
+</td>
+</tr>
+</table>
 
 </div>
 
