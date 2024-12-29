@@ -1,4 +1,4 @@
-# Aydin Ayanzadeh, Ph.D. Candidate
+# Aydin Ayanzadeh, Ph.D. student
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayanzadeh93/)
