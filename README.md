@@ -1,16 +1,17 @@
 <!--
   GitHub Profile README — Aydin Ayanzadeh
   PhD Student · UMBC · CORAL Lab
-  Theme: Tokyo Night · Research-grade · Minimal
+  Theme: Tokyo Night · Research-grade
 -->
 
 <a href="https://www.ayanzadeh.com/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=Aydin%20Ayanzadeh&fontSize=58&fontColor=c0caf5&fontAlignY=38&desc=PhD%20Student%20·%20Computer%20Science%20·%20UMBC%20CORAL%20Lab&descSize=18&descAlignY=60&descAlign=50&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=Aydin%20Ayanzadeh&fontSize=58&fontColor=c0caf5&fontAlignY=38&desc=PhD%20Student%20-%20Computer%20Science%20-%20UMBC%20CORAL%20Lab&descSize=18&descAlignY=62&descAlign=50&animation=fadeIn" alt="header"/>
 </a>
 
+<!-- ============== TYPING SVG (fixed: no special unicode, encoded pipes) ============== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&lines=Building+AI-driven+assistive+tech+for+the+blind+%26+low-vision;LLM+agents+·+Vision-Language+Models+·+RAG+·+Spatial+reasoning;Floorplan2Guide+·+AgenticRAG+·+AidGPT" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=false&width=720&height=40&lines=Building+AI-driven+assistive+tech+for+the+blind+%26+low-vision;LLM+agents+%E2%80%A2+VLMs+%E2%80%A2+RAG+%E2%80%A2+Spatial+reasoning;Floorplan2Guide+%7C+AgenticRAG+%7C+AidGPT" alt="typing"/>
   </a>
 </p>
 
@@ -44,11 +45,24 @@ languages:   [English, Persian (فارسی), Turkish]
 
 > My work sits at the intersection of **vision-language models, retrieval-augmented generation, and spatial reasoning** — applied to **accessibility for blind and low-vision (BLV) users**. I design end-to-end pipelines from floorplan perception to natural-language instruction generation.
 
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#1a1b27','primaryTextColor':'#c0caf5','primaryBorderColor':'#7aa2f7','lineColor':'#bb9af7','secondaryColor':'#24283b','tertiaryColor':'#24283b'}}}%%
+flowchart LR
+    A[📷 Floorplan / Scene]:::p --> B[🧠 VLM Parser]:::p
+    B --> C[🕸 Spatial Graph]:::r
+    C --> D[📚 RAG Retrieval]:::r
+    D --> E[🤖 Multi-Agent LLM]:::g
+    E --> F[🗣 BLV Instructions]:::g
+    classDef p fill:#1a1b27,stroke:#7aa2f7,stroke-width:2px,color:#c0caf5
+    classDef r fill:#1a1b27,stroke:#bb9af7,stroke-width:2px,color:#c0caf5
+    classDef g fill:#1a1b27,stroke:#f7768e,stroke-width:2px,color:#c0caf5
+```
+
 <table>
 <tr>
   <td width="33%" valign="top">
 
-**Perception**
+**🔵 Perception**
 - Floorplan parsing (VLMs)
 - Open-vocabulary detection
 - YOLO + multimodal LLMs
@@ -57,7 +71,7 @@ languages:   [English, Persian (فارسی), Turkish]
   </td>
   <td width="33%" valign="top">
 
-**Representation**
+**🟣 Representation**
 - Spatial graphs (NetworkX)
 - Scene grounding
 - RAG knowledge stores
@@ -66,7 +80,7 @@ languages:   [English, Persian (فارسی), Turkish]
   </td>
   <td width="33%" valign="top">
 
-**Reasoning & Generation**
+**🔴 Reasoning & Generation**
 - Multi-agent RAG pipelines
 - Hallucination mitigation
 - Path → instruction synthesis
@@ -136,9 +150,31 @@ languages:   [English, Persian (فارسی), Turkish]
   <img src="https://github-profile-trophy.vercel.app/?username=Ayanzadeh93&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies"/>
 </p>
 
+<details>
+<summary><b>📈 Contribution Activity Graph</b> (click to expand)</summary>
+<br>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayanzadeh93&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=f7768e&area=true" alt="activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayanzadeh93&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=f7768e&area=true&radius=8" alt="activity"/>
 </p>
+</details>
+
+<details>
+<summary><b>🐍 Contribution Snake</b> (animated, auto-generated daily)</summary>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayanzadeh93/Ayanzadeh93/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
+<sub>Requires the snake GitHub Action — setup instructions in repo notes.</sub>
+</details>
+
+<details>
+<summary><b>🏗 Repo & Commit Metrics</b></summary>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ayanzadeh93&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&layout=compact" alt="wakatime"/>
+</p>
+<sub>Shows coding-time breakdown if WakaTime is connected — optional.</sub>
+</details>
 
 ---
 
