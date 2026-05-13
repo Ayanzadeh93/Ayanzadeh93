@@ -1,103 +1,159 @@
-<h1 align="center">Hi, I'm Aydin Ayanzadeh 👋</h1>
-<h3 align="center">Ph.D. Student in Computer Science @ UMBC · CORAL Lab</h3>
-<p align="center">Building AI-driven assistive technologies for Blind & Low-Vision users.</p>
+<!--
+  GitHub Profile README — Aydin Ayanzadeh
+  PhD Student · UMBC · CORAL Lab
+  Theme: Tokyo Night · Research-grade · Minimal
+-->
+
+<a href="https://www.ayanzadeh.com/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=Aydin%20Ayanzadeh&fontSize=58&fontColor=c0caf5&fontAlignY=38&desc=PhD%20Student%20·%20Computer%20Science%20·%20UMBC%20CORAL%20Lab&descSize=18&descAlignY=60&descAlign=50&animation=fadeIn" alt="header"/>
+</a>
 
 <p align="center">
-  <a href="https://www.ayanzadeh.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&lines=Building+AI-driven+assistive+tech+for+the+blind+%26+low-vision;LLM+agents+·+Vision-Language+Models+·+RAG+·+Spatial+reasoning;Floorplan2Guide+·+AgenticRAG+·+AidGPT" alt="typing"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.ayanzadeh.com/"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ayanzadeh93/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/aydin_ayanzadeh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="mailto:a.ayanzadeh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayanzadeh93&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="https://twitter.com/aydin_ayanzadeh"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="mailto:a.ayanzadeh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Ayanzadeh93&label=Profile+views&color=7aa2f7&style=for-the-badge" alt="views"/>
 </p>
 
 ---
 
-## 🔬 About Me
+### 👋 About
 
-I'm a Ph.D. student in Computer Science at the **University of Maryland, Baltimore County (UMBC)**, working in the [**CORAL Lab**](https://coral.cs.umbc.edu/) under **Prof. Tim Oates**. My research sits at the intersection of **vision-language models, retrieval-augmented generation, and spatial reasoning**, with a focus on accessibility.
-
-- 🦮 **Research focus:** Multimodal indoor navigation systems for Blind and Low-Vision (BLV) users
-- 🧠 **Methods:** LLM agents, RAG pipelines, floorplan parsing, vision-language models, graph-based spatial reasoning
-- 👨‍🏫 **Teaching:** TA for *CMSC 462* and *CMSC 475/675* (Neural Networks & Machine Learning)
-- 🌍 **Languages:** English, Persian (فارسی), Turkish
+```yaml
+name:        Aydin Ayanzadeh
+role:        PhD Student, Computer Science
+affiliation: University of Maryland, Baltimore County (UMBC)
+lab:         CORAL Lab — advised by Prof. Tim Oates
+focus:       Assistive AI · Multimodal Navigation · LLM Agents
+teaching:    CMSC 462 · CMSC 475/675  (Neural Nets / ML)
+location:    Baltimore, MD, USA
+languages:   [English, Persian (فارسی), Turkish]
+```
 
 ---
 
-## 🚀 Current Projects
+### 🔬 Research Focus
+
+> My work sits at the intersection of **vision-language models, retrieval-augmented generation, and spatial reasoning** — applied to **accessibility for blind and low-vision (BLV) users**. I design end-to-end pipelines from floorplan perception to natural-language instruction generation.
+
+<table>
+<tr>
+  <td width="33%" valign="top">
+
+**Perception**
+- Floorplan parsing (VLMs)
+- Open-vocabulary detection
+- YOLO + multimodal LLMs
+- Adjacency-graph extraction
+
+  </td>
+  <td width="33%" valign="top">
+
+**Representation**
+- Spatial graphs (NetworkX)
+- Scene grounding
+- RAG knowledge stores
+- LoRA-tuned Qwen2-VL
+
+  </td>
+  <td width="33%" valign="top">
+
+**Reasoning & Generation**
+- Multi-agent RAG pipelines
+- Hallucination mitigation
+- Path → instruction synthesis
+- Evaluation benchmarks
+
+  </td>
+</tr>
+</table>
+
+---
+
+### 🚀 Active Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| **Floorplan2Guide** | LLM-guided agentic floor plan parsing for accessible indoor navigation | Python · LLMs · NetworkX · VLMs |
-| **AgenticRAG** | Multi-agent RAG pipeline for navigation instruction generation | LangGraph · RAG · Multi-agent |
-| **AidGPT** | PhD thesis project — conversational assistive agent for BLV users | PyTorch · LLMs · Multimodal |
-| **InVLM** | Indoor vision-language model fine-tuning (LoRA on Qwen2-VL) | PyTorch · PEFT · Qwen2-VL |
+| **Floorplan2Guide** | LLM-guided agentic floor plan parsing for indoor BLV navigation | `Python` `VLMs` `NetworkX` |
+| **AgenticRAG** | Multi-agent RAG pipeline for accessible navigation instructions | `LangGraph` `RAG` `Agents` |
+| **AidGPT** | PhD thesis — conversational assistive agent for BLV users | `PyTorch` `Multimodal LLMs` |
+| **InVLM** | LoRA fine-tuning of Qwen2-VL for indoor scene understanding | `PEFT` `Qwen2-VL` `🤗` |
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**Deep Learning & ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Tools & Infra**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayanzadeh93&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanzadeh93&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,docker,git,linux,bash,cpp,aws,latex&theme=dark" alt="skills"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayanzadeh93&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square&labelColor=222"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=222"/>
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&labelColor=222"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white&labelColor=222"/>
+  <img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black&labelColor=222"/>
+  <img src="https://img.shields.io/badge/Hydra-89B8CD?style=flat-square&labelColor=222"/>
+  <img src="https://img.shields.io/badge/NetworkX-2C5BB4?style=flat-square&labelColor=222"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black&labelColor=222"/>
 </p>
 
 ---
 
-## 📝 Selected Research
+### 📄 Selected Publications
 
-- **LLM-Guided Agentic Floor Plan Parsing for Accessible Indoor Navigation of Blind and Low-Vision Users** — *CVPR Workshop, 2025*
-- **Wildfire Risk Assessment via YOLO + LLM Multimodal Reasoning** — *2025*
-- Multiple peer reviews for *Expert Systems with Applications*, *Signal Processing: Image Communication*
+- **LLM-Guided Agentic Floor Plan Parsing for Accessible Indoor Navigation of Blind and Low-Vision Users**  
+  <sub>*A. Ayanzadeh et al.* — CVPR Workshop, 2025</sub>
+- **Multimodal Wildfire Risk Assessment via YOLO Detection and LLM Reasoning**  
+  <sub>*A. Ayanzadeh et al.* — 2025</sub>
+- **Adjacency-Graph Representations for Indoor Navigation in Vision-Language Models**  
+  <sub>*Under review* — 2026</sub>
 
-📄 Full list on my [portfolio](https://www.ayanzadeh.com/) and [Google Scholar](https://scholar.google.com/).
+📚 Full list → [Google Scholar](https://scholar.google.com/) · [Portfolio](https://www.ayanzadeh.com/)
 
 ---
 
-## 🤝 Let's Collaborate
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayanzadeh93&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanzadeh93&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ayanzadeh93&theme=tokyonight&hide_border=true&background=1A1B27&stroke=7AA2F7&ring=BB9AF7&fire=F7768E&currStreakLabel=7AA2F7" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayanzadeh93&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayanzadeh93&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=f7768e&area=true" alt="activity"/>
+</p>
+
+---
+
+### 🤝 Collaboration
 
 I'm open to:
-- 🔬 Research collaborations in **assistive AI, multimodal LLMs, and spatial reasoning**
-- 🎓 Mentoring opportunities for students entering ML/CV research
-- 💼 Industry research internships in **VLM / agentic systems / accessibility**
+- 🔬 Research collaborations in **assistive AI · multimodal LLMs · agentic systems · spatial reasoning**
+- 🏢 Industry **research internships** (VLM, agents, accessibility)
+- 🎓 Mentoring students entering ML / CV research
+- 📝 Peer review for ML / CV / accessibility venues
 
-📬 Reach me at **a.ayanzadeh@gmail.com** · 📍 Baltimore, MD
+📬 **a.ayanzadeh@gmail.com** &nbsp;·&nbsp; 📍 Baltimore, MD
 
 ---
 
-<p align="center"><i>"Building AI that sees so others can navigate."</i></p>
+<p align="center"><i>"Building AI that sees, so others can navigate."</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b27&height=100&section=footer" alt="footer"/>
