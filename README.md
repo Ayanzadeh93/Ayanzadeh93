@@ -201,7 +201,7 @@ I'm open to:
 - 🎓 Mentoring students entering ML / CV research
 - 📝 Peer review for ML / CV / accessibility venues
 
-📬 **a.ayanzadeh@gmail.com** &nbsp;·&nbsp; 📍 Baltimore, MD
+📬 **a.ayanzadeh@gmail.com** &nbsp;·&nbsp; 📍 Baltimore, MD 
 
 ---
 
