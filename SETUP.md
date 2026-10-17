@@ -9,17 +9,15 @@ Ayanzadeh93/Ayanzadeh93/         ← your special-name profile repo
 │   ├── research-pipeline.svg    ← custom hand-designed pipeline diagram
 │   └── terminal-card.svg        ← custom terminal-style intro card
 └── .github/workflows/
-    ├── snake.yml                ← daily snake animation
-    └── 3d-contrib.yml           ← daily 3D contribution skyline
+    └── snake.yml                ← daily snake animation
 ```
 
 ## 🚀 First-time setup
 
 1. **Push everything** to your `Ayanzadeh93/Ayanzadeh93` repo (the one named after your username).
-2. **Run both workflows once** from the Actions tab:
+2. **Run the workflow once** from the Actions tab:
    - "Generate Snake Animation" → produces the `output` branch with snake SVGs
-   - "Generate 3D Contribution Skyline" → produces `profile-3d-contrib/profile-night-rainbow.svg`
-3. Both will re-run daily on their cron schedules.
+3. It will re-run daily on its cron schedule.
 
 ## ✏️ Things to replace before pushing
 
