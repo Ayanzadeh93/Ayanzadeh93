@@ -8,31 +8,31 @@
 
 <!-- ─── HEADER WAVE ────────────────────────────────────────────────────────── -->
 <a href="https://www.ayanzadeh.com/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,30:24283b,70:7aa2f7,100:bb9af7&height=220&section=header&text=Aydin%20Ayanzadeh&fontSize=62&fontColor=c0caf5&fontAlignY=38&desc=PhD%20·%20Computer%20Science%20·%20UMBC%20CORAL%20Lab&descSize=18&descAlignY=60&descAlign=50&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,45:24283b,100:7aa2f7&height=220&section=header&text=Aydin%20Ayanzadeh&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=PhD%20·%20Computer%20Science%20·%20UMBC%20CORAL%20Lab&descSize=18&descAlignY=60&descAlign=50&animation=fadeIn" alt="Aydin Ayanzadeh — PhD, Computer Science, UMBC CORAL Lab"/>
 </a>
 
 <!-- ─── TYPING SVG (URL-safe encoding) ─────────────────────────────────────── -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=760&height=40&lines=Assistive+AI+for+blind+%26+low-vision+navigation;VLMs+%E2%80%A2+LLM+agents+%E2%80%A2+RAG+%E2%80%A2+spatial+reasoning;5+papers+accepted+in+2025%E2%80%932026+%E2%80%A2+CVPR+%7C+IISWC+%7C+IGARSS" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=760&height=40&lines=Assistive+AI+for+blind+%26+low-vision+navigation;VLMs+%E2%80%A2+LLM+agents+%E2%80%A2+RAG+%E2%80%A2+spatial+reasoning;5+papers+accepted+in+2025%E2%80%932026+%E2%80%A2+CVPR+%7C+IISWC+%7C+IGARSS" alt="Assistive AI for blind and low-vision navigation · VLMs · LLM agents · RAG"/>
   </a>
 </p>
 
 <!-- ─── SOCIAL BADGES ──────────────────────────────────────────────────────── -->
 <p align="center">
-  <a href="https://www.ayanzadeh.com/"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?user=B17tai4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
-  <a href="https://orcid.org/0000-0002-8816-3204"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ayanzadeh93/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.ayanzadeh.com/Aydin_Ayanzadeh_CV__final.pdf"><img src="https://img.shields.io/badge/CV-EA4335?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Ayanzadeh93&label=Profile+views&color=7aa2f7&style=for-the-badge" alt="views"/>
+  <a href="https://www.ayanzadeh.com/"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://scholar.google.com/citations?user=B17tai4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://orcid.org/0000-0002-8816-3204"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://www.linkedin.com/in/ayanzadeh93/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.ayanzadeh.com/Aydin_Ayanzadeh_CV__final.pdf"><img src="https://img.shields.io/badge/CV-EA4335?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Ayanzadeh93&label=Profile+views&color=7aa2f7&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
 
 <!-- ─── TERMINAL CARD (custom, hosted in this repo — never breaks) ─────────── -->
 <p align="center">
-  <img src="./assets/terminal-card.svg" alt="terminal-card" width="95%"/>
+  <img src="./assets/terminal-card.svg" alt="Terminal-style profile card" width="95%"/>
 </p>
 
 ---
@@ -41,7 +41,7 @@
 
 <!-- ─── CUSTOM PIPELINE DIAGRAM (custom SVG, hand-designed for your work) ──── -->
 <p align="center">
-  <img src="./assets/research-pipeline.svg" alt="research-pipeline" width="100%"/>
+  <img src="./assets/research-pipeline.svg" alt="Research pipeline: perception, representation, reasoning, guidance" width="100%"/>
 </p>
 
 > **Perception** extracts rooms, doors, and objects from raw floor plans using VLMs and YOLO-based detectors. **Representation** turns that into a navigable spatial graph plus a retrieval store. **Reasoning** uses agentic RAG to plan routes and verify them against hallucination. The output is a natural-language route a blind or low-vision user can actually follow.
@@ -99,17 +99,17 @@ AI-powered early wildfire analysis from satellite imagery.
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,docker,git,linux,bash,cpp,aws,latex&theme=dark" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,docker,git,linux,bash,cpp,aws,latex&theme=dark" alt="Tech stack icons"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square&labelColor=222"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=222"/>
-  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&labelColor=222"/>
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white&labelColor=222"/>
-  <img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black&labelColor=222"/>
-  <img src="https://img.shields.io/badge/NetworkX-2C5BB4?style=flat-square&labelColor=222"/>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black&labelColor=222"/>
+  <img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA"/>
+  <img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" alt="Weights &amp; Biases"/>
+  <img src="https://img.shields.io/badge/NetworkX-2C5BB4?style=flat-square" alt="NetworkX"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black" alt="YOLO"/>
 </p>
 
 ---
@@ -156,23 +156,27 @@ AI-powered early wildfire analysis from satellite imagery.
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayanzadeh93&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanzadeh93&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayanzadeh93&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs&show=prs_merged&card_width=420&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanzadeh93&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayanzadeh93&theme=tokyonight&hide_border=true&background=1A1B27&stroke=7AA2F7&ring=BB9AF7&fire=F7768E&currStreakLabel=7AA2F7" alt="streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayanzadeh93&theme=tokyonight" alt="Contribution timeline" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayanzadeh93&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies"/>
+  <img src="https://streak-stats.demolab.com?user=Ayanzadeh93&theme=tokyonight&hide_border=true&background=1A1B27&stroke=7AA2F7&ring=BB9AF7&fire=F7768E&currStreakLabel=7AA2F7" alt="Contribution streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Ayanzadeh93&theme=tokyonight&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=9&margin-w=8" alt="GitHub trophies" width="100%"/>
 </p>
 
 <details>
 <summary><b>📈 Contribution Activity Graph</b></summary>
 <br>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayanzadeh93&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=f7768e&area=true&radius=8" alt="activity"/>
+  <img src="https://ghchart.rshah.org/7aa2f7/Ayanzadeh93" alt="Contribution calendar" width="100%"/>
 </p>
 </details>
 
@@ -180,7 +184,7 @@ AI-powered early wildfire analysis from satellite imagery.
 <summary><b>🐍 Contribution Snake</b> (animated · daily)</summary>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ayanzadeh93/Ayanzadeh93/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/Ayanzadeh93/Ayanzadeh93/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
 </p>
 <sub>Setup: see <code>.github/workflows/snake.yml</code> in this repo.</sub>
 </details>
@@ -201,4 +205,4 @@ I'm open to:
 
 <p align="center"><i>"Building AI that sees, so others can navigate."</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=100&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=100&section=footer" alt=""/>
